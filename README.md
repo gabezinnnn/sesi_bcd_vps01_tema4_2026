@@ -1,4 +1,4 @@
-# VPS01 - Tema 04 - Manutenção de Equipamentos
+# VPF01 - Tema 04 - Manutenção de Equipamentos
 Um banco de dados de manutenção de equipamentos em uma fábrica, onde o objetivo é controlar os equipamentos, seu histórico de manutenção, os técnicos responsáveis, peças utilizadas e as ordens de serviço.
 ## MER/DER Conceitual
 ![Conceitual](Conceitual.png)

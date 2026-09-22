@@ -1,0 +1,4 @@
+id_manutencao,id_ordem,id_tecnico,descricao_servico,data_execucao,horas_trabalhadas,observacoes
+1,1,2,Substituição da placa de interface e reconfiguração dos parâmetros de rede do robô.,2026-05-10,5.5,Teste realizado com sucesso após o reparo.
+2,2,3,Substituído o óleo hidráulico completo e trocados os elementos filtrantes da prensa.,2026-05-12,3.0,Descarte do óleo realizado conforme norma ambiental.
+3,3,1,Troca de correias do compressor e limpeza dos radiadores de ar.,2026-05-15,1.5,Equipamento operando com menor nível de ruído.

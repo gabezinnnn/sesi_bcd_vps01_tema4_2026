@@ -1,0 +1,6 @@
+id_ordem,id_equipamento,tipo,descricao,data_abertura,data_inicio,data_fim,status,prioridade
+1,3,Corretiva,Falha no eixo do manipulador e erro de comunicação,2026-05-10 08:30:00,2026-05-10 09:00:00,2026-05-10 14:30:00,Concluída,Alta
+2,1,Preventiva,Troca de óleo do sistema hidráulico e limpeza de filtros,2026-05-12 07:00:00,2026-05-12 08:00:00,2026-05-12 11:00:00,Concluída,Média
+3,4,Preventiva,Substituição de elemento filtrante e verificação de correias,2026-05-15 08:00:00,2026-05-15 08:30:00,2026-05-15 10:00:00,Concluída,Baixa
+4,2,Corretiva,Vibração excessiva no fuso principal durante usinagem,2026-05-18 13:00:00,2026-05-18 13:30:00,,Em Andamento,Alta
+5,5,Preventiva,Inspeção geral de cabos de aço e freios da ponte rolante,2026-05-20 06:00:00,,,Aberta,Média

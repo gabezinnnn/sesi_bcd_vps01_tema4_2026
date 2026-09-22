@@ -1,0 +1,6 @@
+id,nome,tipo,marca,model,numero_serie,data_Aquisicao,status,setor,valor_aquisicao
+1,Prensa Hidráulica 50T,Prensa,Schuler,PH-50,SN-2021-001,2021-03-15,Operacional,Linha de Estampagem,120000.00
+2,Torno CNC 4 Eixos,Torno,Mazak,QuickTurn 250,SN-2022-412,2022-07-10,Operacional,Usinagem,250000.00
+3,Robô de Solda MIG,Robô,KUKA,KR 16,SN-2020-891,2020-11-05,Em Manutenção,Soldagem,180000.00
+4,Compressor de Ar Parafuso,Compressor,Atlas Copco,GA 37,SN-2019-332,2019-01-20,Operacional,Utilidades,45000.00
+5,Ponte Rolante 10t,Ponte Rolante,WEG,PR-10T,SN-2018-105,2018-05-12,Operacional,Logística/Expedição,95000.00

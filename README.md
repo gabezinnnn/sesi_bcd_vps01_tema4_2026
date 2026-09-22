@@ -53,11 +53,11 @@ Um banco de dados de manutenção de equipamentos em uma fábrica, onde o objeti
 | `peca_da_manutencao` | `id_peca`            | `INT`            | Peça utilizada.                            |
 | `peca_da_manutencao` | `quantidade`         | `INT`            | Quantidade da peça aplicada.               |
 ## Dados de teste
-- (Equipamento)[equipamento.csv]
-- (Manutenção)[manutencao.csv]
-- (Ordem da Manutenção)[ordem_manutencao.csv]
-- (Peça)[peca.csv]
-- (Peça da Manutenção)[peca_manutencao.csv]
+- [Equipamento](equipamento.csv)
+- [Manutenção](manutencao.csv)
+- [Ordem da Manutenção](ordem_manutencao.csv)
+- [Peça](peca.csv)
+- [Peça da Manutenção](peca_manutencao.csv)
 ## Código do DDL
 ```sql
     drop database if exists manutencao_equipamentos;
